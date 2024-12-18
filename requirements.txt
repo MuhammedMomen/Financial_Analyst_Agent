@@ -1,0 +1,7 @@
+flet
+python-dotenv
+langchain
+langchain-google-genai
+langgraph
+fpdf
+pypdf
